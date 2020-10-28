@@ -5,4 +5,4 @@
 
 Fiz uma alteração remotamente. QUE IMPRESIONANTE!
 
-Linguagem semelhante ao *HTML*, é o **md!**
+Linguagem semelhante ao *HTML*, é o **Markdown** - **md!**
